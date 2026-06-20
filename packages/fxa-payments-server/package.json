@@ -102,7 +102,7 @@
     "jest": "27.5.1",
     "nock": "^13.5.1",
     "nx": "19.5.3",
-    "pm2": "^5.4.2",
+    "pm2": "^7.0.1",
     "postcss-import": "16.1.0",
     "prettier": "^3.5.3",
     "redux-devtools-extension": "^2.13.9",
@@ -134,7 +134,7 @@
     "helmet": "^8.0.0",
     "hot-shots": "^10.2.1",
     "jest-watch-typeahead": "0.6.5",
-    "joi": "^17.13.3",
+    "joi": "^17.13.4",
     "jquery-modal": "https://github.com/mozilla-fxa/jquery-modal.git#0576775d1b4590314b114386019f4c7421c77503",
     "morgan": "^1.10.0",
     "mozlog": "^3.0.2",
@@ -151,7 +151,7 @@
     "redux-promise-middleware": "^6.2.0",
     "redux-thunk": "^2.4.1",
     "serve-static": "^1.16.0",
-    "uuid": "^10.0.0"
+    "uuid": "^14.0.0"
   },
   "readmeFilename": "README.md",
   "jest": {
